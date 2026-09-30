@@ -1,0 +1,13 @@
+{
+  "name": "poll-question-writer",
+  "owner": {
+    "name": "Sam Bessey",
+    "email": "sam@bessey.com"
+  },
+  "version": "1.0.0",
+  "description": "Write live poll questions with non-leading stems, strong options, and result-handling notes. Taxonomy of poll types, bias rules, and JSON output for slides APIs.",
+  "skills": [
+    "skills/poll-question-writer/SKILL.md"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "presentation-skills",
+  "owner": {
+    "name": "Sam Bessey"
+  },
+  "metadata": {
+    "description": "Portable agent skills for presentation design and audience interaction",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "poll-question-writer",
+      "source": ".",
+      "description": "Write live poll questions with non-leading stems, strong options, and result-handling notes. Taxonomy of poll types, bias rules, and JSON output for slides APIs."
+    }
+  ]
+}
